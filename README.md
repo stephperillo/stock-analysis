@@ -253,9 +253,9 @@ Reading the data via an array has proven to be faster than reading in each cell 
 
 I confirmed that the stock analysis outputs for 2017 and 2018 are the same for the refactored code as during the original code.
 
-![2017](https://github.com/stephperillo/stock-analysis/blob/main/All_Stocks_2017.png)
+![2017](https://github.com/stephperillo/stock-analysis/blob/main/resources/All_Stocks_2017.png)
 
-![2018](https://github.com/stephperillo/stock-analysis/blob/main/All_Stocks_2018.png)
+![2018](https://github.com/stephperillo/stock-analysis/blob/main/resources/All_Stocks_2018.png)
 
 ## Summary
 
