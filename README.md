@@ -7,7 +7,7 @@ In this project, I was tasked with analyzing green stocks to find total daily vo
 
 ## Results
 
-To make the code more efficient, I looped through all the data one time in order to collect the information. I did this by creating 3 arrays to hold tickerVolumes, tickerStartingPrices, and tickerEndingPrices. These arrays store data for each stock when the for loop runs on each. 
+To make the code more efficient, I looped through all the data one time in order to collect the information. I did this by creating 3 arrays to hold tickerVolumes, tickerStartingPrices, and tickerEndingPrices. These arrays store data for each stock when the `for` loop runs on each. 
 
 ###### Refactored 
 
