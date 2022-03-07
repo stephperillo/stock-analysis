@@ -245,13 +245,17 @@ End Sub
 ```
 
 As a result of refactoring the code, it ran 0.6210937 seconds faster for 2017 and 0.5039062 seconds faster for 2018 stocks. 
+![2017](https://github.com/stephperillo/stock-analysis/blob/main/resources/Original_VBA_Run_Time_2017.png)
+
 ![Refactored 2017](https://github.com/stephperillo/stock-analysis/blob/main/resources/VBA_Challenge_2017.png)
+
+![2018](https://github.com/stephperillo/stock-analysis/blob/main/resources/Original_VBA_Run_Time_2017.png)
 
 ![Refactored 2018](https://github.com/stephperillo/stock-analysis/blob/main/resources/VBA_Challenge_2018.png)
 
 Reading the data via an array has proven to be faster than reading in each cell individually in a nested loop.
 
-I confirmed that the stock analysis outputs for 2017 and 2018 are the same for the refactored code as during the original code.
+I confirmed that the stock analysis outputs for 2017 and 2018 are the same for the refactored code as during the original code to ensure that the updated code truly runs faster.
 
 ![2017](https://github.com/stephperillo/stock-analysis/blob/main/resources/All_Stocks_2017.png)
 
