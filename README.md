@@ -245,11 +245,20 @@ End Sub
 ```
 
 As a result of refactoring the code, it ran 0.6210937 seconds faster for 2017 and 0.5039062 seconds faster for 2018 stocks. 
+
+Original
+
 ![2017](https://github.com/stephperillo/stock-analysis/blob/main/resources/Original_VBA_Run_Time_2017.png)
+
+Refactored
 
 ![Refactored 2017](https://github.com/stephperillo/stock-analysis/blob/main/resources/VBA_Challenge_2017.png)
 
+Original
+
 ![2018](https://github.com/stephperillo/stock-analysis/blob/main/resources/Original_VBA_Run_Time_2017.png)
+
+Refactored
 
 ![Refactored 2018](https://github.com/stephperillo/stock-analysis/blob/main/resources/VBA_Challenge_2018.png)
 
